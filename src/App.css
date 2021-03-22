@@ -1,0 +1,7 @@
+.bg-cl{
+  background: linear-gradient(165deg, cyan, limegreen);
+}
+.bg-c2{
+  background: linear-gradient(165deg, yellow, orange);
+  color: black;
+}
